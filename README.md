@@ -4,7 +4,7 @@ Downloads for **QuietCue**, a calm, private reminder app. No account, no cloud, 
 
 **[Download the latest version for Mac](https://github.com/SyedFaseehUddin/quietcue-releases/releases/latest/download/QuietCue.dmg)**
 
-- Requires macOS 27.2 or later
+- Requires macOS Sonoma 14 or later
 - Signed with Developer ID and notarized by Apple
 - Open the DMG and drag QuietCue into Applications
 
